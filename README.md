@@ -1,3 +1,3 @@
 # TEMEN-Food_Waste
 
-Doveloping aplikasi TEMEN Food Waste
+Developing aplikasi TEMEN Food Waste
