@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="13dp" />
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="19dp"
+        android:src="@drawable/baseline_square_24" />
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/user_profile_empty_foreground"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="330dp"
+        android:layout_marginTop="40dp"
+        android:background="@color/material_on_primary_disabled"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:src="@drawable/notif" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="351dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="89dp"
+        app:boxBackgroundColor="@color/white"
+        app:boxCornerRadiusTopStart="10dp"
+        app:boxCornerRadiusTopEnd="10dp"
+        app:boxCornerRadiusBottomStart="10dp"
+        app:boxCornerRadiusBottomEnd="10dp"
+
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="      cari"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#B8ADAD" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="101dp"
+        android:background="@color/material_on_primary_disabled"
+        android:minWidth="24dp"
+        android:minHeight="24dp"
+        android:src="@drawable/search" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="650dp"
+        android:outlineAmbientShadowColor="@color/design_default_color_primary_dark"
+        android:outlineSpotShadowColor="@color/black"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+
+        android:src="@drawable/rectangle_white"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="35dp"
+        android:src="@drawable/home_unclick"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="130dp"
+        android:src="@drawable/paper_upload"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="235dp"
+        android:src="@drawable/buy"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="340dp"
+        android:src="@drawable/profile"/>
+
+</RelativeLayout>
