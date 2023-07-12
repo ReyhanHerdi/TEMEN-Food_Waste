@@ -1,0 +1,3 @@
+com.example.temen_food_waste.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

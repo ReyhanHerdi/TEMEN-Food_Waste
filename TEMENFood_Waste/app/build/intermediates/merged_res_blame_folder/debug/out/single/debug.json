@@ -1,266 +1,338 @@
 [
     {
-        "merged": "com.example.temen_food_waste.app-merged_res-31:/layout_activity_home.xml.flat",
-        "source": "com.example.temen_food_waste.app-main-33:/layout/activity_home.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\button.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_user_profile_empty.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\user_profile_empty.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_user_profile_empty.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\user_profile_empty.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_rectangle_square_round.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\rectangle_square_round.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_white.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_white.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_user_profile_empty.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\user_profile_empty.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_rectangle_square.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\rectangle_square.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_rectangle_square.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\rectangle_square.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_user_profile_empty.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\user_profile_empty.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\profile.xml"
     },
     {
-        "merged": "com.example.temen_food_waste.app-merged_res-31:/drawable_home_unclick.xml.flat",
-        "source": "com.example.temen_food_waste.app-main-33:/drawable/home_unclick.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_user_profile_empty.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\user_profile_empty.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\home.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_rectangle_square.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\rectangle_square.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_search.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\search.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_user_profile_empty_round.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\user_profile_empty_round.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_user_profile_empty.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\user_profile_empty.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_16.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_16.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_home.xml"
+        "merged": "com.example.temen_food_waste.app-merged_res-31:/layout_activity_upload.xml.flat",
+        "source": "com.example.temen_food_waste.app-main-33:/layout/activity_upload.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_notif.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\notif.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_profile.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\profile.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_user_profile_empty_foreground.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\user_profile_empty_foreground.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_buy_clicked.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\buy_clicked.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_baseline_rectangle_24.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\baseline_rectangle_24.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_heart.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\heart.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_user_profile_empty_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\user_profile_empty_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_row_user.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\row_user.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_buy.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\buy.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_rectangle_square_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\rectangle_square_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_rectangle_square_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\rectangle_square_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_user_profile_empty.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\user_profile_empty.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\search.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_rectangle_square.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\rectangle_square.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_home_unclick.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\home_unclick.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_rectangle_square.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\rectangle_square.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_user_profile_empty.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\user_profile_empty.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_user_profile_empty_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\user_profile_empty_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_rectangle_square.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\rectangle_square.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_user_profile_empty.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\user_profile_empty.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_baseline_square_24.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\baseline_square_24.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_checkout.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_rectangle_square.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\rectangle_square.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_notif.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\notif.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_arrow_up.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\arrow_up.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_rectangle_square_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\rectangle_square_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_baseline_square_24.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\baseline_square_24.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_user_profile_empty_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\user_profile_empty_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_rectangle_square.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\rectangle_square.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_button.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\button.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_bigger_rectangle.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\bigger_rectangle.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_row_user.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\row_user.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_user_profile_empty_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\user_profile_empty_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_upload.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_nampilin_data_tes.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_nampilin_data_tes.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_buy.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\buy.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_send.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\send.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_request.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_request.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_profile_clicked.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\profile_clicked.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_home.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\home.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_rectangle_square_round.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\rectangle_square_round.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_user_profile_empty.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\user_profile_empty.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_home_unclick2.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\home_unclick2.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_rectangle_square.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\rectangle_square.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_rectangle_square_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\rectangle_square_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_arrow_ls.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\arrow_ls.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_user_profile_empty.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\user_profile_empty.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_rectangle_square_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\rectangle_square_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_nampilin_data_tes.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_nampilin_data_tes.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_rectangle_square.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\rectangle_square.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_user_profile_empty_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\user_profile_empty_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_paper_upload.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\paper_upload.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_rectangle_square_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\rectangle_square_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_user_profile_empty_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\user_profile_empty_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_white.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_white.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_rectangle_square_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\rectangle_square_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_image_1.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\image_1.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_rectangle_square.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\rectangle_square.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\chat.xml"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_square_foreground.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_square_foreground.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_paper_upload.xml.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\paper_upload.xml"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_rectangle_square_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\rectangle_square_round.png"
     },
     {
-        "merged": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_user_profile_empty_round.png.flat",
-        "source": "C:\\Users\\reyha\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\user_profile_empty_round.png"
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_gray.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_user_profile_empty.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\user_profile_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_paper_upload_clicked.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\paper_upload_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_rectangle_square_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\rectangle_square_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_user_profile_empty_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\user_profile_empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_user_profile_empty_foreground.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\user_profile_empty_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-anydpi-v26_user_profile_empty_round.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-anydpi-v26\\user_profile_empty_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xhdpi_rectangle_square.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xhdpi\\rectangle_square.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_26.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_26.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_arrow_ls.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\arrow_ls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_baseline_rectangle_24.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\baseline_rectangle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxxhdpi_user_profile_empty_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxxhdpi\\user_profile_empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-xxhdpi_user_profile_empty_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-xxhdpi\\user_profile_empty_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_arrow___down_square.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\arrow___down_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\drawable_rectangle_square_foreground.xml.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\drawable\\rectangle_square_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-merged_res-31:\\mipmap-hdpi_rectangle_square_round.png.flat",
+        "source": "C:\\Users\\Diraja\\.gradle\\daemon\\8.0\\com.example.temen_food_waste.app-main-33:\\mipmap-hdpi\\rectangle_square_round.png"
     }
 ]

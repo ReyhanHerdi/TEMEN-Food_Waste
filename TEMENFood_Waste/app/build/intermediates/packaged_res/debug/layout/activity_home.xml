@@ -85,20 +85,22 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/material_on_primary_disabled"
-        android:layout_marginTop="680dp"
         android:layout_marginStart="35dp"
-        android:src="@drawable/home_unclick"/>
+        android:layout_marginTop="680dp"
+        android:background="@color/material_on_primary_disabled"
+        android:src="@drawable/home" />
 
     <ImageButton
+        android:id="@+id/buttonUpload"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@color/material_on_primary_disabled"
-        android:layout_marginTop="680dp"
         android:layout_marginStart="130dp"
-        android:src="@drawable/paper_upload"/>
+        android:layout_marginTop="680dp"
+        android:background="@color/material_on_primary_disabled"
+        android:src="@drawable/paper_upload" />
 
     <ImageButton
+        android:id="@+id/buttonBuy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/material_on_primary_disabled"
@@ -107,11 +109,58 @@
         android:src="@drawable/buy"/>
 
     <ImageButton
+        android:id="@+id/buttonProfile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/material_on_primary_disabled"
         android:layout_marginTop="680dp"
         android:layout_marginStart="340dp"
         android:src="@drawable/profile"/>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/image_1"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="90dp"
+        android:layout_centerHorizontal="true"
+        android:text="Wah, belum ada food waste yang bisa ditampilkan, nih!"
+        android:textColor="@color/black"
+        android:textSize="12dp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="480dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="90dp"
+        android:layout_centerHorizontal="true"
+        android:text="Yuk, temukan food waste di sekitar"
+        android:textColor="@color/black"
+        android:textSize="12dp"/>
+
+    <Button
+        android:id="@+id/buttonLokasi"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="530dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="0dp"
+        android:backgroundTint="#4EB193"
+        android:text="Aktifkan Lokasi" />
 
 </RelativeLayout>
