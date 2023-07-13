@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rectangle"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="13dp" />
+
+
+    <View
+        android:layout_width="3dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="match_parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="610dp"
+        android:background="@color/white" />
+
+    <TextView
+        android:id="@+id/checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="90dp"
+        android:text="Checkout"
+        android:textColor="@color/white"
+        android:textSize="28dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/request"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="90dp"
+        android:text="Request"
+        android:textColor="@color/white"
+        android:textSize="28dp" />
+
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/user_profile_empty_foreground"/>
+
+    <TextView
+        android:id="@+id/textView3_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="145dp"
+        android:layout_marginStart="96dp"
+        android:text="Nama Pemilik Food Waste" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="150dp"
+        app:srcCompat="@drawable/rectangle_gray" />
+
+    <TextView
+        android:id="@+id/textView4_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="310dp"
+        android:layout_marginStart="24dp"
+        android:textSize="20dp"
+        android:text="Deskripsi" />
+
+    <TextView
+        android:id="@+id/textView5_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="410dp"
+        android:layout_marginStart="24dp"
+        android:text="Lokasi"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/editTextText1_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="330dp"
+        android:layout_marginStart="24dp"
+        android:inputType="text"
+        android:hint="Deskripsi food waste" />
+
+    <EditText
+        android:id="@+id/editTextText2_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="430dp"
+        android:layout_marginStart="24dp"
+        android:inputType="text"
+        android:hint="Lokasi pengambilan food waste" />
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="6000dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="60dp"
+        android:background="@color/black"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/divider_horizontal_dark" />
+
+    <TextView
+        android:id="@+id/textView6_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="510dp"
+        android:layout_marginStart="72dp"
+        android:text="Jumlah"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView7_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="510dp"
+        android:layout_marginStart="300dp"
+        android:text="1"
+        android:textSize="20dp"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="512dp"
+        android:layout_marginStart="260dp"
+        android:src="@drawable/arrow_up"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="512dp"
+        android:layout_marginStart="330dp"
+        android:src="@drawable/arrow___down_square"/>
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="6000dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="60dp"
+        android:background="@color/black"
+        android:scaleType="fitXY"
+        android:src="@android:drawable/divider_horizontal_dark" />
+
+    <TextView
+        android:id="@+id/textView8_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="565dp"
+        android:layout_marginStart="72dp"
+        android:text="Total"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/textView9_checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="565dp"
+        android:layout_marginStart="260dp"
+        android:text="Rp. 10.000"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/buttonCheckout"
+        style="@style/Widget.Material3.Button"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="600dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="0dp"
+        android:backgroundTint="#4EB193"
+        android:text="Checkout" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="650dp"
+        android:outlineAmbientShadowColor="@color/design_default_color_primary_dark"
+        android:outlineSpotShadowColor="@color/black"
+        android:backgroundTint="@color/cardview_shadow_start_color"
+
+        android:src="@drawable/rectangle_white"/>
+
+    <ImageButton
+        android:id="@+id/buttonHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="680dp"
+        android:background="@color/material_on_primary_disabled"
+        android:src="@drawable/home_unclick2" />
+
+    <ImageButton
+        android:id="@+id/buttonUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="680dp"
+        android:background="@color/material_on_primary_disabled"
+        android:src="@drawable/paper_upload" />
+
+    <ImageButton
+        android:id="@+id/buttonBuy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="235dp"
+        android:src="@drawable/buy_clicked"/>
+
+    <ImageButton
+        android:id="@+id/buttonProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/material_on_primary_disabled"
+        android:layout_marginTop="680dp"
+        android:layout_marginStart="340dp"
+        android:src="@drawable/profile"/>
+
+
+
+
+</RelativeLayout>
