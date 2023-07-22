@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var email: EditText
     private lateinit var password: EditText
     private lateinit var confirmPassword: EditText
-    private lateinit var buttonRegister: Button
+    private lateinit var buttonRegister: ImageButton
     private lateinit var buttonBackLogin: ImageButton
     private lateinit var database: AppDatabase
 
