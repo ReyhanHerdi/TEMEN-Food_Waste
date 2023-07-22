@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         database = AppDatabase.getInstance(applicationContext)
 
         buttonRegister.setOnClickListener {
-            if (username.text.isNotEmpty() && email.text.isNotEmpty() && password.text.isNotEmpty()){
+            if (username.text.isNotEmpty() && email.text.isNotEmpty() && password.text.isNotEmpty() && confirmPassword.text.toString().equals(password.text.toString())){
                 try {
                     database.userDao().insertAll(
                         User(
@@ -57,11 +57,20 @@ class MainActivity : AppCompatActivity() {
                     }
 
                 } catch (e: Exception) {
-                    Toast.makeText(applicationContext, "isi Data Gagal: ", Toast.LENGTH_SHORT).show()
+                    if (database.userDao().cekEmail(email.text.toString()).isNotEmpty()) {
+                        Toast.makeText(applicationContext, "Email sudah terdaftar", Toast.LENGTH_SHORT).show()
+                    } else {
+                        Toast.makeText(applicationContext, "isi Data Gagal: ", Toast.LENGTH_SHORT).show()
+                    }
+                    //Toast.makeText(applicationContext, "isi Data Gagal: ", Toast.LENGTH_SHORT).show()
                 }
 
             } else {
-                Toast.makeText(applicationContext, "isi Data", Toast.LENGTH_SHORT).show()
+                if (password.text.toString() != confirmPassword.text.toString()) {
+                    Toast.makeText(applicationContext, "Password tidak sesuai", Toast.LENGTH_SHORT).show()
+                } else {
+                    Toast.makeText(applicationContext, "isi semua data", Toast.LENGTH_SHORT).show()
+                }
             }
         }
 
