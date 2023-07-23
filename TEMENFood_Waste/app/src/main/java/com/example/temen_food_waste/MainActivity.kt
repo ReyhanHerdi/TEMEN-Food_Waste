@@ -3,7 +3,6 @@ package com.example.temen_food_waste
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.Toast
@@ -32,7 +31,11 @@ class MainActivity : AppCompatActivity() {
         database = AppDatabase.getInstance(applicationContext)
 
         buttonRegister.setOnClickListener {
-            if (username.text.isNotEmpty() && email.text.isNotEmpty() && password.text.isNotEmpty() && confirmPassword.text.toString().equals(password.text.toString())){
+            if (username.text.isNotEmpty() &&
+                email.text.isNotEmpty() &&
+                password.text.isNotEmpty() &&
+                confirmPassword.text.toString().equals(password.text.toString()) &&
+                password.text.toString().length > 7){
                 try {
                     database.userDao().insertAll(
                         User(
@@ -62,12 +65,13 @@ class MainActivity : AppCompatActivity() {
                     } else {
                         Toast.makeText(applicationContext, "isi Data Gagal: ", Toast.LENGTH_SHORT).show()
                     }
-                    //Toast.makeText(applicationContext, "isi Data Gagal: ", Toast.LENGTH_SHORT).show()
                 }
 
             } else {
                 if (password.text.toString() != confirmPassword.text.toString()) {
                     Toast.makeText(applicationContext, "Password tidak sesuai", Toast.LENGTH_SHORT).show()
+                } else if (password.text.toString().length < 8) {
+                    Toast.makeText(applicationContext, "Password kurang dari 8 karakter", Toast.LENGTH_SHORT).show()
                 } else {
                     Toast.makeText(applicationContext, "isi semua data", Toast.LENGTH_SHORT).show()
                 }
