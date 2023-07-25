@@ -3,7 +3,6 @@ package com.example.temen_food_waste
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
@@ -31,7 +30,9 @@ class LoginActivity : AppCompatActivity() {
         buttonLogin.setOnClickListener {
             if (email.text.isNotEmpty() && password.text.isNotEmpty()) {
                 if (database.userDao().login(email.text.toString(), password.text.toString()).isNotEmpty()) {
-                    startActivity(Intent(this, HomeActivity::class.java))
+                    val intent = Intent(this, HomeActivity::class.java)
+                    intent.putExtra("Email User", email.text.toString())
+                    startActivity(intent)
                 } else {
                     Toast.makeText(applicationContext, "Email atau password salah", Toast.LENGTH_SHORT).show()
                 }

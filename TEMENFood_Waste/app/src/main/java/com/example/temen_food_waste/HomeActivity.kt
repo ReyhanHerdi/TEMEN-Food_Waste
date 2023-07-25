@@ -3,7 +3,7 @@ package com.example.temen_food_waste
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
+import android.util.Log
 import android.widget.ImageButton
 
 class HomeActivity : AppCompatActivity() {
@@ -19,8 +19,14 @@ class HomeActivity : AppCompatActivity() {
         buttonBuy = findViewById(R.id.buttonBuy)
         buttonProfile = findViewById(R.id.buttonProfile)
 
+        val emailUser = intent.getStringExtra("Email User")
+
+        Log.d("Email", emailUser.toString())
+
         buttonUpload.setOnClickListener {
-            startActivity(Intent(this, UploadActivity::class.java))
+            val intent = Intent(this, UploadActivity::class.java)
+            intent.putExtra("Email user", emailUser.toString())
+            startActivity(intent)
         }
 
         buttonBuy.setOnClickListener {

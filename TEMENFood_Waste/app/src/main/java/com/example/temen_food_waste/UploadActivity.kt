@@ -40,7 +40,13 @@ class UploadActivity : AppCompatActivity() {
         buttonProfile = findViewById(R.id.buttonProfile)
         buttonUpload_foodwaste = findViewById(R.id.buttonUploadFoodWaste)
 
+        val emailUser = intent.getStringExtra("Email user")
+
         Log.d("Teest", "lagi jalan")
+        Log.d("Email", emailUser.toString())
+        val idUser = database.userDao().getIdUser(emailUser.toString())
+
+        Log.d("id user", idUser.toString())
 
         buttonUpload_foodwaste.setOnClickListener {
             Log.d("test", "Tombol diklik")
@@ -55,7 +61,7 @@ class UploadActivity : AppCompatActivity() {
                             stok.text.toString().toInt(),
                             harga.text.toString().toInt(),
                             null,
-                            1 //database.userDao().getIdUser(email.text.toString()).toString().toInt() // email gak kebaca
+                            database.userDao().getIdUser(emailUser.toString()).toString().toInt()
                         )
                     )
                     Log.d("test", "data berhasil")
