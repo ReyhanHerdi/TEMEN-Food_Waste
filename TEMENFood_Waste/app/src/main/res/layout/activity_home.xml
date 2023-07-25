@@ -39,7 +39,8 @@
         android:background="@color/material_on_primary_disabled"
         android:minWidth="48dp"
         android:minHeight="48dp"
-        android:src="@drawable/notif" />
+        android:src="@drawable/notif"
+        android:contentDescription="Notifikasi"/>
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="351dp"
@@ -56,7 +57,7 @@
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:hint="      cari"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="#B8ADAD" />
@@ -88,7 +89,8 @@
         android:layout_marginStart="35dp"
         android:layout_marginTop="680dp"
         android:background="@color/material_on_primary_disabled"
-        android:src="@drawable/home" />
+        android:src="@drawable/home"
+        android:contentDescription="home"/>
 
     <ImageButton
         android:id="@+id/buttonUpload"
@@ -97,7 +99,8 @@
         android:layout_marginStart="130dp"
         android:layout_marginTop="680dp"
         android:background="@color/material_on_primary_disabled"
-        android:src="@drawable/paper_upload" />
+        android:src="@drawable/paper_upload"
+        android:contentDescription="upload food waste"/>
 
     <ImageButton
         android:id="@+id/buttonBuy"
@@ -106,7 +109,8 @@
         android:background="@color/material_on_primary_disabled"
         android:layout_marginTop="680dp"
         android:layout_marginStart="235dp"
-        android:src="@drawable/buy"/>
+        android:src="@drawable/buy"
+        android:contentDescription="button buy"/>
 
     <ImageButton
         android:id="@+id/buttonProfile"
@@ -115,7 +119,8 @@
         android:background="@color/material_on_primary_disabled"
         android:layout_marginTop="680dp"
         android:layout_marginStart="340dp"
-        android:src="@drawable/profile"/>
+        android:src="@drawable/profile"
+        android:contentDescription="halaman profil"/>
 
     <ImageView
         android:id="@+id/imageView4"

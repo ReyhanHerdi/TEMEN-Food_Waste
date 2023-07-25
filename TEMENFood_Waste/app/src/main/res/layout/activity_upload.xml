@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="-40dp"
+        android:layout_marginTop="-60dp"
         app:srcCompat="@drawable/rectangle"
         tools:layout_editor_absoluteX="72dp"
         tools:layout_editor_absoluteY="13dp" />
@@ -100,119 +100,103 @@
                 android:id="@+id/textView4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="10dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="22dp"
                 android:layout_marginEnd="85dp"
                 android:layout_marginBottom="90dp"
                 android:text="Upload Food Waste"
                 android:textColor="@color/black"
-                android:textSize="32dp"
-                android:textStyle="bold" />
+                android:textSize="25dp"
+                android:fontFamily="@font/nunito_bold"
+                />
 
             <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
                 android:layout_width="fill_parent"
                 android:layout_height="3dp"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="55dp"
+                android:layout_marginStart="44dp"
+                android:layout_marginTop="65dp"
                 android:layout_marginEnd="85dp"
                 android:layout_marginBottom="90dp"
-                android:background="@color/black"
-                android:scaleType="fitXY"
-                android:src="@android:drawable/divider_horizontal_dark" />
+                android:background="@color/material_on_primary_disabled"
+                android:src="@drawable/line" />
 
             <TextView
                 android:id="@+id/textView5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="65dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="73dp"
                 android:layout_marginEnd="85dp"
-                android:layout_marginBottom="90dp"
                 android:text="Upload Gambar"
                 android:textColor="@color/black"
-                android:textSize="28dp" />
-
-            <ImageView
-                android:id="@+id/imageView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="110dp"
-                app:srcCompat="@drawable/rectangle_gray" />
-
-            <TextView
-                android:id="@+id/textView6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="290dp"
-                android:layout_marginEnd="85dp"
-                android:layout_marginBottom="90dp"
-                android:text="Deskripsi"
-                android:textColor="@color/black"
-                android:textSize="28dp" />
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
 
             <ImageButton
-                android:id="@+id/imageButton2"
+                android:id="@+id/upload_foodwaste"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="160dp"
-                android:layout_marginTop="150dp"
+                android:layout_marginStart="56dp"
+                android:layout_marginTop="110dp"
+                android:src="@drawable/image_unpload"
                 android:background="@color/material_on_primary_disabled"
-                app:srcCompat="@android:drawable/ic_menu_add" />
-
-            <TextView
-                android:id="@+id/textView7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="95dp"
-                android:layout_marginTop="190dp"
-                android:layout_marginEnd="85dp"
-                android:layout_marginBottom="90dp"
-                android:text="Upload Gambar Klik disini"
-                android:textColor="#767676"
-                android:textSize="14dp" />
-
-            <com.google.android.material.textfield.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="330dp"
-                android:layout_marginEnd="85dp"
-                android:layout_marginBottom="90dp"
-                app:boxCornerRadiusTopStart="20dp"
-                app:boxCornerRadiusTopEnd="20dp"
-                app:boxCornerRadiusBottomStart="20dp"
-                app:boxCornerRadiusBottomEnd="20dp"
-                >
-
-                <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/deskripsi"
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:hint="Masukkan deskripsi barang"
-                    android:inputType="text"
-                    android:textAlignment="textStart" />
-            </com.google.android.material.textfield.TextInputLayout>
+                android:contentDescription="upload image" />
 
             <TextView
                 android:id="@+id/textView10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="460dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="277dp"
                 android:layout_marginEnd="85dp"
                 android:layout_marginBottom="90dp"
-                android:text="Lokasi"
+                android:text="Judul"
                 android:textColor="@color/black"
-                android:textSize="28dp" />
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="307dp"
+                android:layout_marginEnd="64dp"
+                app:boxCornerRadiusTopStart="20dp"
+                app:boxCornerRadiusTopEnd="20dp"
+                app:boxCornerRadiusBottomStart="20dp"
+                app:boxCornerRadiusBottomEnd="20dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/nama_foodwaste"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Masukkan judul barang"
+                    android:inputType="text"
+                    android:textSize="12dp"
+                    android:fontFamily="@font/nunito"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="372dp"
+                android:layout_marginEnd="85dp"
+                android:layout_marginBottom="90dp"
+                android:text="Deskripsi"
+                android:textColor="@color/black"
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
+
+
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="500dp"
-                android:layout_marginEnd="85dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="402dp"
+                android:layout_marginEnd="64dp"
                 android:layout_marginBottom="90dp"
                 app:boxCornerRadiusTopStart="20dp"
                 app:boxCornerRadiusTopEnd="20dp"
@@ -221,39 +205,137 @@
                 >
 
                 <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/lokasi"
+                    android:id="@+id/desk_foodwaste"
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
-                    android:hint="Masukkan lokasi pengambilan"
+                    android:fontFamily="@font/nunito"
+                    android:hint="Masukkan deskripsi barang"
                     android:inputType="text"
-                    android:textAlignment="textStart" />
+                    android:textAlignment="textStart"
+                    android:textSize="12dp" />
             </com.google.android.material.textfield.TextInputLayout>
 
-            <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
-                android:layout_width="fill_parent"
-                android:layout_height="3dp"
-                android:layout_marginStart="0dp"
-                android:layout_marginTop="650dp"
-                android:layout_marginEnd="0dp"
-                android:layout_marginBottom="90dp"
-                android:background="@color/black"
-                android:scaleType="fitXY"
-                android:src="@android:drawable/divider_horizontal_dark" />
-
-            <Button
-                android:id="@+id/buttonUploadEnter"
-                style="@style/Widget.Material3.Button"
-                android:layout_width="242dp"
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="85dp"
-                android:layout_marginTop="670dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="525dp"
                 android:layout_marginEnd="85dp"
-                android:layout_marginBottom="0dp"
-                android:backgroundTint="#4EB193"
-                android:text="Upload" />
+                android:layout_marginBottom="90dp"
+                android:text="Stok"
+                android:textColor="@color/black"
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="555dp"
+                android:layout_marginEnd="64dp"
+                app:boxCornerRadiusTopStart="20dp"
+                app:boxCornerRadiusTopEnd="20dp"
+                app:boxCornerRadiusBottomStart="20dp"
+                app:boxCornerRadiusBottomEnd="20dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/stok"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Masukkan stok barang"
+                    android:inputType="number"
+                    android:textSize="12dp"
+                    android:fontFamily="@font/nunito"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="621dp"
+                android:layout_marginEnd="85dp"
+                android:layout_marginBottom="90dp"
+                android:text="Harga"
+                android:textColor="@color/black"
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="651dp"
+                android:layout_marginEnd="64dp"
+                app:boxCornerRadiusTopStart="20dp"
+                app:boxCornerRadiusTopEnd="20dp"
+                app:boxCornerRadiusBottomStart="20dp"
+                app:boxCornerRadiusBottomEnd="20dp">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/harga"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Harga"
+                    android:inputType="number"
+                    android:textSize="12dp"
+                    android:fontFamily="@font/nunito"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="716dp"
+                android:layout_marginEnd="85dp"
+                android:layout_marginBottom="90dp"
+                android:text="Kategori"
+                android:textColor="@color/black"
+                android:fontFamily="@font/nunito_semibold"
+                android:textSize="20dp" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="41dp"
+                android:layout_marginTop="746dp"
+                android:layout_marginEnd="64dp"
+                />
 
         </RelativeLayout>
     </ScrollView>
+
+    <ImageButton
+        android:id="@+id/buttonUploadFoodWaste"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rectangle_login"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="610dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/material_on_primary_disabled"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="156dp"
+        android:layout_marginTop="615dp"
+        android:layout_marginEnd="85dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="@font/nunito_bold"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        android:text="Upload" />
 
 </RelativeLayout>
 

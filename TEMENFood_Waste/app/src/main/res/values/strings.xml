@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TEMEN-Food_Waste</string>
+
+    <string-array name="kategori">
+        <item>Makanan</item>
+        <item>Minuman</item>
+        <item>Sampah</item>
+    </string-array>
 </resources>
