@@ -4,7 +4,9 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import android.widget.ArrayAdapter
 import android.widget.ImageButton
+import android.widget.Spinner
 import android.widget.TextView
 import android.widget.Toast
 import com.example.temen_food_waste.data.AppDatabase
@@ -22,6 +24,7 @@ class UploadActivity : AppCompatActivity() {
     private lateinit var harga: TextView
     private lateinit var email: TextView
     private lateinit var database: AppDatabase
+    private lateinit var spinnerKategori: Spinner
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -39,6 +42,7 @@ class UploadActivity : AppCompatActivity() {
         buttonBuy = findViewById(R.id.buttonBuy)
         buttonProfile = findViewById(R.id.buttonProfile)
         buttonUpload_foodwaste = findViewById(R.id.buttonUploadFoodWaste)
+        spinnerKategori = findViewById(R.id.spinnerKategori)
 
         val emailUser = intent.getStringExtra("Email user")
 
@@ -60,10 +64,11 @@ class UploadActivity : AppCompatActivity() {
                             null,
                             stok.text.toString().toInt(),
                             harga.text.toString().toInt(),
-                            null,
+                            spinnerKategori.getSelectedItem().toString(),
                             database.userDao().getIdUser(emailUser.toString()).toString().toInt()
                         )
                     )
+                    Log.d("Spinner", spinnerKategori.getSelectedItem().toString())
                     Log.d("test", "data berhasil")
                 } catch (e: Exception) {
                     Toast.makeText(applicationContext, "Isi data gagal", Toast.LENGTH_SHORT).show()
@@ -72,6 +77,7 @@ class UploadActivity : AppCompatActivity() {
                         database.userDao().getIdUser(email.text.toString()).toString()
                     )
                     Log.d("email", email.text.toString()) */
+                    Log.d("Spinner", spinnerKategori.getSelectedItem().toString())
                 }
             } else {
                 Toast.makeText(applicationContext, "Isi semua data", Toast.LENGTH_SHORT).show()
@@ -90,5 +96,15 @@ class UploadActivity : AppCompatActivity() {
         buttonProfile.setOnClickListener {
             startActivity(Intent(this, ProfileActivity::class.java))
         }
+
+        ArrayAdapter.createFromResource(this, R.array.kategori, android.R.layout.simple_spinner_item)
+            .also { adapter ->
+                adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
+                spinnerKategori.adapter = adapter
+            }
+
+        Log.d("Spinner", spinnerKategori.getSelectedItem().toString())
+
+
     }
 }

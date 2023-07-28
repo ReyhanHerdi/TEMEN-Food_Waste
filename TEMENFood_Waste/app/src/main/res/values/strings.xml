@@ -2,8 +2,10 @@
     <string name="app_name">TEMEN-Food_Waste</string>
 
     <string-array name="kategori">
-        <item>Makanan</item>
-        <item>Minuman</item>
-        <item>Sampah</item>
+        <item>Nasi</item>
+        <item>Roti</item>
+        <item>Daging</item>
+        <item>Tulang</item>
+        <item>Buah dan Sayuran</item>
     </string-array>
 </resources>

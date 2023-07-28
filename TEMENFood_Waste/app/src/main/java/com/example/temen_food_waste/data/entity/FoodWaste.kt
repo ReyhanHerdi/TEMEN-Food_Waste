@@ -17,6 +17,6 @@ data class FoodWaste (
     @ColumnInfo(name = "foto_foodwaste") val foto_foodwaste: String? = null,
     @ColumnInfo(name = "stok") val stok: Int? = 0,
     @ColumnInfo(name = "harga") val harga: Int?,
-    @ColumnInfo(name = "kategori") val kategori: String? = null,
+    @ColumnInfo(name = "kategori") val kategori: String?,
     @ColumnInfo(name = "id_user") val id_user: Int?,
 )
